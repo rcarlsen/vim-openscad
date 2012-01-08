@@ -24,6 +24,7 @@ syn keyword openscadRepeat for intersection_for
 syn keyword openscadInclude include use
 syn keyword openscadCsgKeyword union difference intersection render intersection_for
 syn keyword openscadTransform scale rotate translate mirror multmatrix color minkowski hull glide subdiv
+syn keyword openscadPrimitiveShape circle square polygon
 syn keyword openscadPrimitiveSolid cube sphere cylinder polyhedron surface
 syn keyword openscadExtrude linear_extrude dxf_linear_extrude rotate_extrude dxf_rotate_extrude
 syn keyword openscadImport import import_stl import_off import_dxf
